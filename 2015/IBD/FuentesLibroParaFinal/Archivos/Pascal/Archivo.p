@@ -1,4 +1,4 @@
-Program Saludo;
+Program Archivo;
 	//Existen varias formas de definir un archivo y son las siguientes:
 	//Definiendolos como tipos de datos
 	type
